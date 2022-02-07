@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gha-demo/static/css/main.7f904051.chunk.css",
+    "main.js": "/gha-demo/static/js/main.74dcca58.chunk.js",
+    "main.js.map": "/gha-demo/static/js/main.74dcca58.chunk.js.map",
+    "runtime-main.js": "/gha-demo/static/js/runtime-main.dcc00b8d.js",
+    "runtime-main.js.map": "/gha-demo/static/js/runtime-main.dcc00b8d.js.map",
+    "static/js/2.2d32032f.chunk.js": "/gha-demo/static/js/2.2d32032f.chunk.js",
+    "static/js/2.2d32032f.chunk.js.map": "/gha-demo/static/js/2.2d32032f.chunk.js.map",
+    "index.html": "/gha-demo/index.html",
+    "precache-manifest.330ce66982fb7c8ddb23da9525810ec0.js": "/gha-demo/precache-manifest.330ce66982fb7c8ddb23da9525810ec0.js",
+    "service-worker.js": "/gha-demo/service-worker.js",
+    "static/css/main.7f904051.chunk.css.map": "/gha-demo/static/css/main.7f904051.chunk.css.map",
+    "static/js/2.2d32032f.chunk.js.LICENSE.txt": "/gha-demo/static/js/2.2d32032f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gha-demo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcc00b8d.js",
+    "static/js/2.2d32032f.chunk.js",
+    "static/css/main.7f904051.chunk.css",
+    "static/js/main.74dcca58.chunk.js"
+  ]
+}
